@@ -1,0 +1,14 @@
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\bin\Debug\net10.0\mundo.exe
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\bin\Debug\net10.0\mundo.deps.json
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\bin\Debug\net10.0\mundo.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\bin\Debug\net10.0\mundo.dll
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\bin\Debug\net10.0\mundo.pdb
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.dll
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\refint\mundo.dll
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.pdb
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\mundo.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\C#\mundo\obj\Debug\net10.0\ref\mundo.dll
