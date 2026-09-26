@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj": {}
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj": {
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj",
         "projectName": "EliminacionAlFinal",
-        "projectPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj",
+        "projectPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\EliminacionAlFinal.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\obj\\",
+        "outputPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionAlFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config"

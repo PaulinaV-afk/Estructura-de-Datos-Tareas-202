@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj": {}
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj": {
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj",
         "projectName": "EliminacionEspecifica",
-        "projectPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj",
+        "projectPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\EliminacionEspecifica.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\obj\\",
+        "outputPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\EliminacionEspecifica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config"

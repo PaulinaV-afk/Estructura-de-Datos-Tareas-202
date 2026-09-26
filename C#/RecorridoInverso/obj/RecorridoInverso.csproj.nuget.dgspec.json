@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj": {}
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj": {
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj",
         "projectName": "RecorridoInverso",
-        "projectPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj",
+        "projectPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\RecorridoInverso.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\obj\\",
+        "outputPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\RecorridoInverso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config"

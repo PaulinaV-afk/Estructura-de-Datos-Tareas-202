@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj": {}
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj": {
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj",
         "projectName": "InsercionIndice",
-        "projectPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj",
+        "projectPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\InsercionIndice.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\obj\\",
+        "outputPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\InsercionIndice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config"
