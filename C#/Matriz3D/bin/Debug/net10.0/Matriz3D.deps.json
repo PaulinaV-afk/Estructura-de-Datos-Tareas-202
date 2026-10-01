@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Matriz3D/1.0.0": {
+        "runtime": {
+          "Matriz3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matriz3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

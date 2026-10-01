@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\bin\Debug\net10.0\Matriz3D.exe
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\bin\Debug\net10.0\Matriz3D.deps.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\bin\Debug\net10.0\Matriz3D.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\bin\Debug\net10.0\Matriz3D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\bin\Debug\net10.0\Matriz3D.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.sourcelink.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\refint\Matriz3D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\Matriz3D.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz3D\obj\Debug\net10.0\ref\Matriz3D.dll

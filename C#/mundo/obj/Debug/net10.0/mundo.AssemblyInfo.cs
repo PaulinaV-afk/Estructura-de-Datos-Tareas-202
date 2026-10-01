@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4c87b35b2fa61bcbf1dac69c2b8885ac828539")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543fc5adb447b939d2de72fbf1f1817022edd218")]
 [assembly: System.Reflection.AssemblyProductAttribute("mundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

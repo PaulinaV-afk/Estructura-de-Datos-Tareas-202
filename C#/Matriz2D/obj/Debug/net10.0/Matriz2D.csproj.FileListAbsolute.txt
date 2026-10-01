@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\bin\Debug\net10.0\Matriz2D.exe
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\bin\Debug\net10.0\Matriz2D.deps.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\bin\Debug\net10.0\Matriz2D.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\bin\Debug\net10.0\Matriz2D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\bin\Debug\net10.0\Matriz2D.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.sourcelink.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\refint\Matriz2D.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\Matriz2D.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\Matriz2D\obj\Debug\net10.0\ref\Matriz2D.dll
