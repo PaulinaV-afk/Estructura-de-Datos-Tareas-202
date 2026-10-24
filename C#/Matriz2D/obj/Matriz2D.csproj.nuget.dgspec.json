@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj": {}
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj": {
+    "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj",
         "projectName": "Matriz2D",
-        "projectPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj",
+        "projectPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\Matriz2D.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\obj\\",
+        "outputPath": "C:\\Users\\pauli\\OneDrive\\Desktop\\Escuela\\Estructura de datos\\C#\\Matriz2D\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config"

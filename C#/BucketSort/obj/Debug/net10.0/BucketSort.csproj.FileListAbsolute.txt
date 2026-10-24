@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\bin\Debug\net10.0\BucketSort.exe
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\bin\Debug\net10.0\BucketSort.deps.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\bin\Debug\net10.0\BucketSort.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\bin\Debug\net10.0\BucketSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\bin\Debug\net10.0\BucketSort.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.sourcelink.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\refint\BucketSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\BucketSort.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\BucketSort\obj\Debug\net10.0\ref\BucketSort.dll

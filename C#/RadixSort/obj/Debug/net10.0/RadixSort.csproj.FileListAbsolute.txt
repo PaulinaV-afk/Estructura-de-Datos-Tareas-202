@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\bin\Debug\net10.0\RadixSort.exe
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\bin\Debug\net10.0\RadixSort.deps.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\bin\Debug\net10.0\RadixSort.runtimeconfig.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\bin\Debug\net10.0\RadixSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\bin\Debug\net10.0\RadixSort.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.sourcelink.json
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\refint\RadixSort.dll
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.pdb
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\RadixSort.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Desktop\Escuela\Estructura de datos\C#\RadixSort\obj\Debug\net10.0\ref\RadixSort.dll
